@@ -59,6 +59,10 @@ Three interactive dashboards were developed using Microsoft Excel 2019.
 
 1. National Patient Experience Analysis
 
+    ### National Patient Experience Analysis
+
+![National Analysis](HCAPHS Dashboard 1.png.png)
+
 This dashboard examines national patient experience trends between 2015 and 2023.
 
 Key visualizations include:
@@ -71,6 +75,9 @@ Key visualizations include:
 
 2. State-Level Patient Experience Analysis
 
+### State Patient Experience Analysis 
+![State Analysis](HCAPHS_Dashboard 2.png.png)
+
 This dashboard explores differences in patient experience across U.S. states.
 
 Key visualizations include:
@@ -81,6 +88,9 @@ Key visualizations include:
 - Interactive state slicers for exploring individual state performance.
 
 3. Hospital Participation & Survey Response Analysis
+
+   ### Hospital Participation & Survey Response Analysis 
+![Participation & Survey Response](HCAPHS Dashboard 3.png.png)
 
 This dashboard evaluates hospital participation and survey response patterns.
 
@@ -135,20 +145,23 @@ These findings highlight changes in survey response patterns and hospital partic
 
 This project demonstrates how healthcare data can be transformed into structured, meaningful information for understanding patient experience and hospital performance.
 
-It also showcases the application of data analytics techniques to healthcare quality measurement and performance monitoring.
+It also showcases the application of data analytics techniques to healthcare quality measurement and performance monitoring
 
 👩‍⚕️ About the Analyst
-
-I am a healthcare professional with a nursing background and a growing specialization in healthcare data analytics.
-
-My clinical experience in paediatrics, neonatal intensive care, and cardiothoracic intensive care has strengthened my interest in using data to understand healthcare performance and support evidence-based decision-making.
-
-Career Focus: Healthcare Data Analyst | Clinical Data Analytics | Healthcare Quality & Performance Analysis
+ Healthcare Data Analyst | Clinical Data Analytics | Healthcare Quality & Performance Analysis
 
 ---
+
+##Contact
+
+**Grace Egberis**
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/grace-egberis-91524038a*
+- 
 
 Tools: SQL Server Management Studio | Microsoft Excel 2019
 
 Project Domain: Healthcare Analytics
 
 Analysis Period: 2015–2023
+
