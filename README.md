@@ -56,19 +56,20 @@ Data validation was performed to ensure consistency and reliability before dashb
 📊 Dashboard Development
 
 Three interactive dashboards were developed using Microsoft Excel 2019.
+
 📊 Dashboard Screenshots
 
 Dashboard 1: National Patient Experience Analysis
 
-"HCAHPS Dashboard 1" (HCAHPS Dashboard 1.png)
+"HCAHPS Dashboard 1" (HCAHPS%20Dashboard%201.png)
 
 Dashboard 2: State-Level Patient Experience Analysis
 
-"HCAHPS Dashboard 2" (HCAHPS Dashboard 2.png)
+"HCAHPS Dashboard 2" (HCAHPS%20Dashboard%202.png)
 
 Dashboard 3: Hospital Participation and Survey Response Analysis
 
-"HCAHPS Dashboard 3" (HCAHPS Dashboard 3.png)
+"HCAHPS Dashboard 3" (HCAHPS%20Dashboard%203.png)
 
 1. National Patient Experience Analysis
 
