@@ -56,12 +56,21 @@ Data validation was performed to ensure consistency and reliability before dashb
 📊 Dashboard Development
 
 Three interactive dashboards were developed using Microsoft Excel 2019.
+📊 Dashboard Screenshots
+
+Dashboard 1: National Patient Experience Analysis
+
+"HCAHPS Dashboard 1" (HCAHPS Dashboard 1.png)
+
+Dashboard 2: State-Level Patient Experience Analysis
+
+"HCAHPS Dashboard 2" (HCAHPS Dashboard 2.png)
+
+Dashboard 3: Hospital Participation and Survey Response Analysis
+
+"HCAHPS Dashboard 3" (HCAHPS Dashboard 3.png)
 
 1. National Patient Experience Analysis
-
-    ### National Patient Experience Analysis
-
-![National Analysis](HCAPHS Dashboard 1.png.png)
 
 This dashboard examines national patient experience trends between 2015 and 2023.
 
@@ -75,8 +84,6 @@ Key visualizations include:
 
 2. State-Level Patient Experience Analysis
 
-### State Patient Experience Analysis 
-![State Analysis](HCAPHS_Dashboard 2.png.png)
 
 This dashboard explores differences in patient experience across U.S. states.
 
@@ -88,9 +95,6 @@ Key visualizations include:
 - Interactive state slicers for exploring individual state performance.
 
 3. Hospital Participation & Survey Response Analysis
-
-   ### Hospital Participation & Survey Response Analysis 
-![Participation & Survey Response](HCAPHS Dashboard 3.png.png)
 
 This dashboard evaluates hospital participation and survey response patterns.
 
